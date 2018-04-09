@@ -10,4 +10,7 @@ EPOS Technical documentation
 - Metadata Ingestor: Damian Ulbricht damian.ulbricht@gfz-potsdam.de, Xiaoliang Wang Xiaoliang.Wang@uib.no 
 - Use Cases: Jan Michalek Jan.Michalek@uib.no 
 - Master Table: Jan Michalek Jan.Michalek@uib.no 
+- Granularity Database : Xiaoliang Wang Xiaoliang.Wang@uib.no 
+- AAAI: Tomasz Szepieniec t.szepieniec@cyfronet.pl
+
 
