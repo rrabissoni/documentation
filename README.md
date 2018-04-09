@@ -12,5 +12,6 @@ EPOS Technical documentation
 - Master Table: Jan Michalek Jan.Michalek@uib.no 
 - Granularity Database : Xiaoliang Wang Xiaoliang.Wang@uib.no 
 - AAAI: Tomasz Szepieniec t.szepieniec@cyfronet.pl
+- Workflow System: Alessandro Spinuso alessandro.spinuso@knmi.nl
 
 
